@@ -8,5 +8,7 @@ public class FirstClass {
         System.out.println("hhhhhhhh");
         System.out.println("hhhhhhhh");
         System.out.println("hhhhhhhh");
+
+        System.out.println("wwwwwwwwxxgg");
     }
 }
